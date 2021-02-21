@@ -1,0 +1,13 @@
+# configuration files
+*.json
+
+# compiled files #
+*.exe
+*.o
+*.log
+
+# output files
+*.mtx
+
+# directory
+MATRIXDIR/
